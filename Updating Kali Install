@@ -1,0 +1,4 @@
+To update Kali, open a terminal session and type:
+** apt-get update && apt-get upgrade && apt-get dist-upgrade
+Check your version of Kali:
+** lsb_release -a
